@@ -1,0 +1,11 @@
+.env
+*.env
+
+backend/gee_key.json
+
+venv/
+backend/venv/
+
+node_modules/
+__pycache__/
+*.pyc

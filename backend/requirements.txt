@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pythermalcomfort
+python-multipart
+python-dotenv
+requests
+lightgbm
+scikit-learn
+joblib
+pandas
+numpy
+earthengine-api
